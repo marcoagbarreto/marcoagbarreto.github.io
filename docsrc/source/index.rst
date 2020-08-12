@@ -18,6 +18,7 @@ Experience
 | *Master's Student and Researcher* 
 | The Lab. researches technology oriented to biomechatronical applications to serve the community. 
 | I'm a full time student in biomechatronical research. I'm part of the Exteme Bionics team, engaged in the development of algorithms for non-rigid object and deformable soft tissues for the applications in prosthetic design. My research involves machine vision, machine learning and biomedical applications. 
+| Lab website : `gda.itesm.mx/biomechatronics <https://gda.itesm.mx/biomechatronics/>`_
 
 | ``2019 - 2020`` **Catena Machinery Business**
 | Guadalajara, Jalisco
@@ -28,6 +29,7 @@ Experience
 | Guadalajara, Jalisco
 | *Internship*
 | Proligono is a marketing business, it creates media and creative content for brands. I was a Jr. in video editing and animation. 
+| Proligono website : `proligono.mx <https://www.proligono.mx/>`_
 
 Publications
 ------------
@@ -63,7 +65,7 @@ Software
 Other
 -----
 
-| GIT - Latex - Sphinx - Pycharm - Jupyter
+| GIT - Latex - Sphinx - Pycharm - Jupyter - Linux - Docker
 
 .. _education:
 

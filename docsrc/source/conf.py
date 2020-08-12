@@ -9,10 +9,10 @@
 
 project = 'Marco A. Barreto'
 copyright = '2020'
-author = 'Marco A. Barreto'
+author = ''
 
 # The short X.Y version
-version = 'Mechatronics Engineer'
+version = ' '
 # The full version, including alpha/beta/rc tags
 release = '1'
 
