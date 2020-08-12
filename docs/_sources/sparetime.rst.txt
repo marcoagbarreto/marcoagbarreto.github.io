@@ -1,0 +1,4 @@
+.. _spare-time:
+
+Spare Time
+==========

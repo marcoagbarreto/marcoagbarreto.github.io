@@ -7,12 +7,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Sphinx-Themes template'
-copyright = '2018, sphinx-themes.org'
-author = 'sphinx-themes.org'
+project = 'Marco A. Barreto'
+copyright = '2020'
+author = 'Marco A. Barreto'
 
 # The short X.Y version
-version = ''
+version = 'Mechatronics Engineer'
 # The full version, including alpha/beta/rc tags
 release = '1'
 
@@ -85,9 +85,5 @@ html_static_path = ['_static']
 # 'searchbox.html']``.
 #
 # html_sidebars = {}
-html_sidebars = {
-   '**': ['globaltoc.html', 'sourcelink.html'],
-   'using/windows': ['windowssidebar.html'],
-}
 
 html_theme = 'sphinx_rtd_theme'
