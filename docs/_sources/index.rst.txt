@@ -6,7 +6,11 @@
 Marco A. Barreto
 ================
 | Mechatronics Engineer
-| marco.agbarreto@gmail.com
+| A01226069[at]itesm.mx
+
+`Reaserchgate <https://www.researchgate.net/profile/Marco-Barreto-4>`_
+
+`Google Scholar <https://scholar.google.com/citations?hl=es&user=6H4neQ4AAAAJ>`_
 
 .. _experience:
 
@@ -34,9 +38,22 @@ Experience
 Publications
 ------------
 
-| "Non-static object reconstruction system based on multiple RGB-D cameras" 
+**2021**
+
+| **"Registro de Nubes de Puntos 2D: Comparación entre Métodos Iterativos y una Red Neuronal Artificial"**
+| Dennis Mendoza Solísa, Hector Aranda Martinez, Yadira Fleitas Toranzo, Marco A. Barreto, Julián Bravo Castillero, Nidiyare Hevia Montiel, Jorge Perez-Gonzalez
+| Iterativos y una Red Neuronal Artificial”
+| *4th Conference on Computer Science and Computer Engineering (CoCSCE '21)*
+
+**2020**
+
+| **"Non-static object reconstruction system based on multiple RGB-D cameras"** 
 | M. A. Barreto, J.C Huegel, R. Q. Fuentes, J. Perez-Gonzalez. 
 | *Proc. SPIE, Twelfth International Conference on Machine Vision (ICMV 2019).*
+| http://dx.doi.org/10.1117/12.2556357
+
+
+
 
 Volunteering
 ------------
@@ -53,14 +70,14 @@ Technical Skills
 Languages
 ---------
 
-| ★★☆ Python, C/C++, C#
+| ★★★ Python 
+| ★☆☆C/C++, C#
 
 Software
 --------
 
 | ★★★ Inventor, Matlab, Octave
 | ★★☆ SolidWorks, Catia, Wolfram
-| ★☆☆ MPLAB
 
 Other
 -----
@@ -72,7 +89,7 @@ Other
 Education
 =========
 
-| ``2021`` **Master's degree**
+| ``2021`` **MSc degree** (Graduation in December)
 | Major: Mechatronics Engineering at Tecnológico de Monterrey
 
 | ``2019`` **Bachelor's degree**
@@ -84,10 +101,6 @@ Languages
 * Spanish
 * French
 
-Sport
------
-* Capoeira
-* Gymnastics
    
    
 
