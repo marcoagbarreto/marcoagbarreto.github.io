@@ -7,7 +7,7 @@ Marco A. Barreto
 ================
 | Mechatronics Engineer
 | Mail: A01226069[at]itesm.mx
-| Phone: 33-3820-4722
+
 
 `Reaserchgate <https://www.researchgate.net/profile/Marco-Barreto-4>`_,
 `Google Scholar <https://scholar.google.com/citations?hl=es&user=6H4neQ4AAAAJ>`_
