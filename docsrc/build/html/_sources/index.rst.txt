@@ -6,18 +6,42 @@
 Marco A. Barreto
 ================
 | Mechatronics Engineer
-| Mail: A01226069[at]itesm.mx
+| Mail: marco.agbarreto[at]outlook.com
 
 
 `Reaserchgate <https://www.researchgate.net/profile/Marco-Barreto-4>`_,
 `Google Scholar <https://scholar.google.com/citations?hl=es&user=6H4neQ4AAAAJ>`_
+
+.. _education:
+
+Education
+=========
+
+| ``2021`` **MSc degree**
+| Major: Machine Vision at Tecnológico de Monterrey
+
+| ``2019`` **Bachelor's degree**
+| Major: Mechatronics Engineering at Tecnológico de Monterrey
+
+Languages 
+---------
+* English - TOEFL Score: 91 - October 2019
+* Spanish - Native
+* French - B2
 
 .. _experience:
 
 Experience
 ==========
 
-| ``2020 - Current`` **Biomechatronics Lab. at ITESM** 
+| ``2022 - Current`` **Intel - NSG**
+| Guadalajara, Jalisco 
+| *Firmware Validation Engineer*
+| Non-volatile Memory Storage Group (NSG) works on storage solutions for data centers.
+| I'm part of the validation team, developing tests to ensure that the product is properly working.
+| Intel website : `intel.com <https://www.intel.com/content/www/us/en/products/details/memory-storage/data-center-ssds.html>`_
+
+| ``2020 - 2022`` **Biomechatronics Lab. at ITESM** 
 | Guadalajara, Jalisco 
 | *Master's Student and Researcher* 
 | The Lab. researches technology oriented to biomechatronical applications to serve the community. 
@@ -40,11 +64,17 @@ Experience
 Publications
 ------------
 
+**2022**
+
+| **"ARACAM: A RGB-D Multi-View Photogrammetry System for Lower Limb 3D Reconstruction Applications"**
+| Marco A. Barreto, Jorge Perez-Gonzalez, Hugh M. Herr, Joel C. Huegel
+| Engineering Sensing Systems for Medical Applications, Sensors 2022, 22(7), 2443.
+| https://doi.org/10.3390/s22072443
+
 **2021**
 
 | **"Registro de Nubes de Puntos 2D: Comparación entre Métodos Iterativos y una Red Neuronal Artificial"**
 | D. Mendoza, H. Aranda, Y. Fleitas, M. A. Barreto, J. Bravo, N. Hevia, J. Perez-Gonzalez
-| Iterativos y una Red Neuronal Artificial”
 | *4th Conference on Computer Science and Computer Engineering (CoCSCE '21)*
 | http://revistaaristas.tij.uabc.mx/index.php/revista_aristas/article/view/121
 
@@ -80,36 +110,21 @@ Technical Skills
 Languages
 ---------
 
-| ★★★ Python 
-| ★☆☆C/C++, C#
+| Python - 3yrs
+| C/C++, C# - 1yrs
 
 Software
 --------
 
-| ★★★ Inventor, Meshlab, Meshmixer, Matlab, Octave
-| ★★☆ nTopology, SolidWorks, Wolfram
+| Inventor, Meshlab, Meshmixer, Matlab, Octave - 4yrs
+| nTopology, SolidWorks, Wolfram - 2yrs
 
 Other
 -----
 
 | GIT - Latex - Sphinx - Pycharm - Jupyter - Linux - Docker - Realsense - Open3D - OpenCV
 
-.. _education:
 
-Education
-=========
-
-| ``2021`` **MSc degree** (Graduation in December)
-| Major: Machine Vision at Tecnológico de Monterrey
-
-| ``2019`` **Bachelor's degree**
-| Major: Mechatronics Engineering at Tecnológico de Monterrey
-
-Languages 
----------
-* English - Advanced
-* Spanish - Native
-* French - Intermediate
 
    
    
