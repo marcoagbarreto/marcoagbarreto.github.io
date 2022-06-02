@@ -70,6 +70,7 @@ Publications
 | Marco A. Barreto, Jorge Perez-Gonzalez, Hugh M. Herr, Joel C. Huegel
 | Engineering Sensing Systems for Medical Applications, Sensors 2022, 22(7), 2443.
 | https://doi.org/10.3390/s22072443
+| Project repository: https://github.com/marcoagbarreto/ARACAM
 
 **2021**
 
