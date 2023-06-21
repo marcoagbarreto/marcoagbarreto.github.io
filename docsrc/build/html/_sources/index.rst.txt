@@ -9,7 +9,7 @@ Marco A. Barreto
 | Mail: marco.agbarreto[at]outlook.com
 
 
-`Reaserchgate <https://www.researchgate.net/profile/Marco-Barreto-4>`_,
+`Researchgate <https://www.researchgate.net/profile/Marco-Barreto-4>`_,
 `Google Scholar <https://scholar.google.com/citations?hl=es&user=6H4neQ4AAAAJ>`_
 
 .. _education:
@@ -18,7 +18,7 @@ Education
 =========
 
 | ``2021`` **MSc degree**
-| Major: Machine Vision at Tecnológico de Monterrey
+| Major: Machine Vision/Learning at Tecnológico de Monterrey
 
 | ``2019`` **Bachelor's degree**
 | Major: Mechatronics Engineering at Tecnológico de Monterrey
@@ -34,11 +34,18 @@ Languages
 Experience
 ==========
 
-| ``2022 - Current`` **Intel - NSG**
+| ``2023 - Current`` **Solidigm**
+| Guadalajara, Jalisco 
+| *Firmware Validation Engineer*
+| Solidigm works on storage solutions for data centers.
+| I'm part of the validation team, developing tests to ensure products meet our quality standard.
+| Intel website : `solidigm.com <https://www.solidigm.com/>`_
+
+| ``2022 - 2023`` **Intel - NSG**
 | Guadalajara, Jalisco 
 | *Firmware Validation Engineer*
 | Non-volatile Memory Storage Group (NSG) works on storage solutions for data centers.
-| I'm part of the validation team, developing tests to ensure that the product is properly working.
+| I'm part of the validation team, developing tests to ensure products meet our quality standard.
 | Intel website : `intel.com <https://www.intel.com/content/www/us/en/products/details/memory-storage/data-center-ssds.html>`_
 
 | ``2020 - 2022`` **Biomechatronics Lab. at ITESM** 
@@ -68,9 +75,14 @@ Publications
 
 | **"ARACAM: A RGB-D Multi-View Photogrammetry System for Lower Limb 3D Reconstruction Applications"**
 | Marco A. Barreto, Jorge Perez-Gonzalez, Hugh M. Herr, Joel C. Huegel
-| Engineering Sensing Systems for Medical Applications, Sensors 2022, 22(7), 2443.
+| *Engineering Sensing Systems for Medical Applications, Sensors 2022, 22(7), 2443.*
 | https://doi.org/10.3390/s22072443
 | Project repository: https://github.com/marcoagbarreto/ARACAM
+
+| **"The use of conformal lattice metamaterials for relieving stress in lower limb sockets: A numerical and exploratory study"**
+| Marco A. Barreto, Enrique Cuan-Urquizo, Jorge Luis Perez-Gonzalez, Joel C. Huegel
+| *Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine.2022;236(11):1635-1645.*
+| https://doi.org/10.1177/09544119221127736
 
 **2021**
 
@@ -95,13 +107,13 @@ Volunteering
 | ``2017 - 2019`` **Technologies for the community**
 | *2 years participation acknowledgment*
 | Association committed to help people to walk again after an amputation and with the donation of prostheses. During my voluteering I supported with patients registrations, rehabilitation assistance and monitoring of people's progress in the walking process.
-| http://tecnologias.org.mx/
+| Tecnologias website : `tecnologias.org.mx <http://tecnologias.org.mx/>`_
 
 
 | ``2021`` **Proactible**
 | *1 year participation acknowledgment*
 | Orthoses and prostheses laboratory for lower limb amputations. During my voluteering I supported with creating a digital archive for lower limb plaster cast models using the computer vision algorithms developed during the MSc program.
-| https://www.proactible.com/
+| Proactible website : `proactible.com <https://www.proactible.com/>`_
 
 .. _techincal-skills:
 
@@ -111,7 +123,7 @@ Technical Skills
 Languages
 ---------
 
-| Python - 3yrs
+| Python - 4yrs
 | C/C++, C# - 1yrs
 
 Software
